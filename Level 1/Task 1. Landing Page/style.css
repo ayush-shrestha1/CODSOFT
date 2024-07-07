@@ -1,0 +1,27 @@
+*{
+    font-family: "Poppins",sans-serif;
+}
+
+.navbar-brand{
+    color: #0275d8
+}
+
+.outline-text {
+    -webkit-text-stroke: 1.25px black ;
+    color: transparent;
+  }
+
+.app-icon{
+    width: 150px;
+    height: auto;
+}
+
+.icon{
+    width: 60px;
+    filter: brightness(0) invert(1);
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: -60px;
+}
