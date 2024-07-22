@@ -1,0 +1,7 @@
+section{
+    height: 100svh;
+}
+
+.text-shadow {
+    text-shadow: 2px 1px 1px black;
+  }
